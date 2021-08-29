@@ -70,22 +70,22 @@
 
 <h2 align="center">Get started</h2><br>
 
-Offiziele Anleitungen um einen ACccount zu erstellen, und auf vielen Geräten zu minen, <a href="https://revoxhere.github.io/duino-coin/getting-started">auf der offizielen Website</a>.<br>
+Offizielle Anleitungen um einen ACccount zu erstellen, und auf vielen Geräten zu minen, <a href="https://revoxhere.github.io/duino-coin/getting-started">auf der offiziellen Website</a>.<br>
 Ein FAQ und Hilfe kann in der Wiki-Seite gefunden werden [Wikis](https://github.com/revoxhere/duino-coin/wiki).
 <br>
 
-| Offiziele Wallets | Offiziele Miner |
+| Offizielle Wallets | Offizielle Miner |
 :-----------------:|:----------------:
 [<img src="https://i.imgur.com/msVtLHs.png">](https://duinocoin.com/getting-started#register)  |  [<img src="https://i.imgur.com/SMkKHOK.png">](https://duinocoin.com/getting-started#computer)
 
-<h3 align="center">Duino-Coin Installieren</h2><br>
+<h3 align="center">Duino-Coin installieren</h2><br>
 
-Der einfachste Weg zu starten, ist  [das neuste release](https://github.com/revoxhere/duino-coin/releases/latest) für dein OS herunterzuladen.<br>
-<br> Wenn der Download fertig ist, Entpacke ihn und öffnen dein gewünschtes Programm. Es sind keine anderen Programme nötig. <br>
+Der einfachste Weg zu starten ist das neuste Release für dein OS herunterzuladen:[Neustes Release](https://github.com/revoxhere/duino-coin/releases/latest)<br>
+<br> Wenn der Download fertig ist, einfach entpacken und dein gewünschtes Programm starten. Es sind keine anderen Programme nötig. <br>
 
 <hr>
 
- Wenn du die Programme dierekt über Python starten willst, musst du vielleicht einige zusätzliche pip-module installieren. So kann man es auf Debian-basierenden Linux distros (z.B. Ubuntu, Debian oder Raspian) machen:
+ Wenn du die Programme direkt über Python starten willst, musst du vielleicht einige zusätzliche pip-module installieren. So kann man es auf Debian-basierenden Linux Distros (z.B. Ubuntu, Debian oder Raspian) machen:
 ```BASH
 sudo apt install python3 python3-pip git
 git clone https://github.com/revoxhere/duino-coin
@@ -98,7 +98,7 @@ Im CMD Fenster, Schreibe/kopiere dies hinein:
 ```BASH
 py -m pip install -r requirements.txt
 ```
-Wichtig für Windows nutzer: Immer sicher gehen das [Python 3](https://www.python.org/downloads/) und Python3-pip installiert und im PATH sind.
+Wichtig für Windows nutzer: Immer sicher gehen, dass [Python 3](https://www.python.org/downloads/) und Python3-pip installiert und im PATH sind.
 
 Jetzt kannst du den Miner starten. (z.b. `python3 PC_Miner.py` oder `py PC_Miner.py`).
 
